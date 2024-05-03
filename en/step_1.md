@@ -1,4 +1,4 @@
-Sometimes you will want to style particular elements within a **container** that has a class. To do this you use the `>` operator.
+Sometimes, you will want to style particular elements within a **container** that has a class. To do this you use the `>` operator.
 
 The example you just used styles all `<a>` elements within a container that has the `nav-items` class. 
 
