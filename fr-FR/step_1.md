@@ -1,8 +1,8 @@
-Sometimes, you will want to style particular elements within a **container** that has a certain class. To do this you use the `>` operator.
+Il arrive que l'on veuille styliser des éléments particuliers à l'intérieur d'un **conteneur** ayant une certaine classe. Pour cela, tu utilises l'opérateur `>`.
 
-The example you just used styled all `<a>` elements within the container that has the `nav-items` class.
+L'exemple que tu viens d'utiliser a stylisé tous les éléments `<a>` à l'intérieur du conteneur qui a la classe `nav-items`.
 
-This allows you to style certain links without affecting all the links on your page. It saves you having to give a class to each individual link.
+Cela te permet de styliser certains liens sans affecter tous les liens de ta page. Cela t'évite de devoir donner une classe à chaque lien individuel.
 
 ## --- code ---
 
