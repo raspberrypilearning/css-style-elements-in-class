@@ -1,8 +1,8 @@
-Sometimes, you will want to style particular elements within a **container** that has a certain class. To do this you use the `>` operator.
+Soms wil je specifieke elementen binnen een **container** die een bepaalde klasse heeft, opmaken. Om dit te doen, gebruik je de `>` operator.
 
-The example you just used styled all `<a>` elements within the container that has the `nav-items` class.
+Het voorbeeld dat je zojuist hebt gebruikt maakt alle `<a>` elementen op binnen een container die de `nav-items` klasse heeft.
 
-This allows you to style certain links without affecting all the links on your page. It saves you having to give a class to each individual link.
+Dit stelt je in staat bepaalde links op te maken zonder alle links op je pagina te beïnvloeden. Je hoeft dan niet aan elke afzonderlijke link een klasse toe te kennen.
 
 ## --- code ---
 
